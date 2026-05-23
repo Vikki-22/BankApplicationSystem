@@ -1,0 +1,1 @@
+this is my bank application system where i use java jdbc and mysql database, with help of this project we check the account holder details and add ,remove, transfer , deposite , withdraw and etc operation perform . 
