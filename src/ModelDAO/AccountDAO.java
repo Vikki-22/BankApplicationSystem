@@ -8,8 +8,7 @@ import java.util.List;
 import java.util.Scanner;
 
 import Entity.account;
-import Entity.patients;
-import modelsDAO.DBUtil;
+import ModelDAO.DBUtil;
 
 
 public class AccountDAO {
